@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import sklearn.impute as SimpleImputer
 
-data = pd.read_csv('datanalys/datatype.csv')
+data = pd.read_csv('datatype.csv')
 print(data)
 
 print("In this we will convert data type")
