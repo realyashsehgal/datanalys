@@ -1,0 +1,7 @@
+EmployeeID,gender,department,Days Present,Accuracy of Work,Meeting Project Deadlines,Task Completion Rates,Interpersonal Skills Rating,Decision-Making Skills Rating,Sales Revenue Generated,churned
+26,Female,Finance,19,Low,Yes,65%,6,5,81770,Yes
+27,Male,Sales,23,Medium,Yes,75%,7,7,78482,No
+28,Female,Marketing,21,High,Yes,85%,8,8,57836,Yes
+29,Male,Human Resources,24,Low,No,60%,5,4,62885,No
+30,Male,Engineering,18,Medium,Yes,70%,6,6,52579,No
+31,Female,Finance,20,High,Yes,80%,8,7,75795,Yes
